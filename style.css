@@ -162,7 +162,7 @@ p {
 
 .btn-cart[data-icon="icon-cart"]::before {
   content: "";
-  background-image: url(/images/icon-cart.svg);
+  background-image: url(./images/icon-cart.svg);
   width: 0.8991rem;
   height: 1rem;
 }
